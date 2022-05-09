@@ -5,7 +5,7 @@
 ```
 apt update
 apt install git -y
-git clone https://github.com/winorohadimukti/termux-shel.git
+git clone https://github.com/winorohadimukti/termux-shele.git
 cd termux-shell
 chmod +x *
 sh install.sh
@@ -19,7 +19,3 @@ apt update && apt install git -y && git clone https://github.com/htr-tech/termux
 #### Credit : https://github.com/TechnicalMujeeb/
 
     
-## [+] Find Me on :
-#### Instagram : @tahmid.rayat
-#### Facebook : tahmid.rayat.official
-#### Github : htr-tech
