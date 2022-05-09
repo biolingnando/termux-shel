@@ -5,8 +5,8 @@
 ```
 apt update
 apt install git -y
-git clone https://github.com/winorohadimukti/termux-shele.git
-cd termux-shele
+git clone https://github.com/winorohadimukti/termux-shel.git
+cd termux-shel
 chmod +x *
 sh install.sh
 exit
